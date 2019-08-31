@@ -1,0 +1,7 @@
+f_computadora_mob.php
+ProyectosApp
+f_computadora_mob
+SIM
+form
+f_computadora
+LigMd5

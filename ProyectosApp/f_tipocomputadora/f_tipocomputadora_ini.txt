@@ -1,0 +1,7 @@
+index.php
+ProyectosApp
+f_tipocomputadora
+SIM
+form
+f_tipocomputadora
+LigMd5
